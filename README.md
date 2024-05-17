@@ -12,5 +12,4 @@ https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/61275a00-c
 
 Output Video:
 
-https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/e2f1ea69-1ec4-4997-983c-1d8ed70b1afb
-
+https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/6ddfa789-a151-4531-a2d2-141f861229b1
