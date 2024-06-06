@@ -8,8 +8,8 @@ Output Image:
 
 Input Video:
 
-https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/61275a00-c4a4-42d0-8544-2e4a4b6f72e7
+https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/b64fb6ea-2f3e-4a00-8f62-869094b1ea6c
 
 Output Video:
 
-https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/6ddfa789-a151-4531-a2d2-141f861229b1
+https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/ba70c8ec-af82-4835-b745-61b4277e9229
