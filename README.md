@@ -1,3 +1,7 @@
+Web UI:
+
+<img width="958" alt="UI" src="https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/8ff118a9-316c-4660-bcf2-69cdb98ae4f7">
+
 Input Image:
 
 ![input](https://github.com/samark02/ZeroShot-Object-Detection/assets/97296526/9d71a23c-041a-4d00-a4d6-fceb3e4044d9)
